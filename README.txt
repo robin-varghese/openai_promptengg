@@ -2,6 +2,6 @@ This Jupyter Notebook is developed to experiment the lessons taught in ChatGPT P
 
 For explanation of the code, please refer the notebook itself. 
 Generate the API key from https://platform.openai.com/settings/organization/api-keys 
-Inorder to save the API Key, add a file in the project directory with name .env and add the API key. Use the reference in the code. 
+Inorder to save the API Key, add a file in the project directory with name .env and add the API key. Use the reference in the code. I had to purchase the minium package to run these samples, because the free quota gets exhausted quickly while writing and troubleshooting the code. 
 
 Also add a file .gitignore in the project directory and add .env file in this. This will restrict local git sending the .env file to the remote repo. 
